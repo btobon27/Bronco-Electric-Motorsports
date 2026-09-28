@@ -1,7 +1,7 @@
 # Bronco-Electric-Motorsports
 Bryan Tobon's FSAE Projects
 
-Low voltage switching PCB
+# Low voltage switching PCB
 
 ## Schematic and PCB
 
