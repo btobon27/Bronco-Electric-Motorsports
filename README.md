@@ -27,8 +27,7 @@ Each project folder may contain:
 
 - KiCad schematics
 - PCB layouts
-- Design documentation
 - BOMs
 - Manufacturing files
 - Design revisions
-- Testing documentation
+  
