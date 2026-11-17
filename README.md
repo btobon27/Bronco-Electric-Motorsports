@@ -4,6 +4,9 @@ PCB designs developed for the Cal Poly Pomona Formula SAE Electric vehicle. Thes
 
 All PCB designs were developed using KiCad.
 
+UPDATE: New 26-27 Projects including data acquisition sensor board, updated fault latch, and low voltage switching.
+Low voltage system for Formula Electric
+
 ## Projects
 
 ### Vehicle Control Unit (VCU)
